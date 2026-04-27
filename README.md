@@ -1,4 +1,4 @@
-# 🏦 ML-Driven Strategic Credit Risk Audit Dashboard
+# 🏦 ML-Driven Strategic Credit Risk Prediction App
 
 ### **Live Application**
 🔗 **[Launch Credit Risk Audit Tool](https://credit-risk-audit-app-yxzd8ie4nwn2ci9bopzpp5.streamlit.app/)**
